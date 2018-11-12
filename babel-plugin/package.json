@@ -1,0 +1,15 @@
+{
+  "name": "@microverse-network/babel-plugin",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@microverse-network/webworker-loader": "0.0.0",
+    "json5": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "tape": "^4.9.0"
+  }
+}

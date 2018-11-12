@@ -1,0 +1,11 @@
+{
+  "name": "@microverse-network/webworker",
+  "version": "0.0.0",
+  "dependencies": {
+    "@microverse-network/core": "0.0.0",
+    "@microverse-network/environment": "0.0.0",
+    "@microverse-network/module": "0.0.0",
+    "@microverse-network/transport": "0.0.0",
+    "workerstream": "^1.2.1"
+  }
+}

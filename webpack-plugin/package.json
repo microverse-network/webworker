@@ -1,0 +1,8 @@
+{
+  "name": "@microverse-network/webpack-plugin",
+  "version": "0.0.0",
+  "author": "Umut Sirin <umutsirin1@gmail.com>",
+  "dependencies": {
+    "webpack": "^4.10.1"
+  }
+}
